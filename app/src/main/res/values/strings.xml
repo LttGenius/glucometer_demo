@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">glucometer_demo</string>
+    <string name="main_choose">健康检测</string>
+</resources>
